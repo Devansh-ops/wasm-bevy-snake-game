@@ -1,0 +1,12 @@
+{
+  "name": "bevy-snake",
+  "version": "0.1.0",
+  "files": [
+    "bevy_snake_bg.wasm",
+    "bevy_snake.js",
+    "bevy_snake.d.ts"
+  ],
+  "module": "bevy_snake.js",
+  "types": "bevy_snake.d.ts",
+  "sideEffects": false
+}
